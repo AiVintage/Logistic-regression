@@ -39,7 +39,7 @@ We evaluate the model using **confusion matrix, accuracy, precision, and recall*
 ### Confusion Matrix
 The confusion matrix shows perfect classification:  
 
-![Confusion Matrix](confusion_matrix.png)  
+![Confusion Matrix]  
 
 ### Performance Metrics
 - **Accuracy:** 1.0  
