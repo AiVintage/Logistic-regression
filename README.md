@@ -73,4 +73,4 @@ The confusion matrix shows perfect classification:
 ## 👨‍💻 Author
 **AiVintage (Veli)**  
 Data Science Graduate | Skilled in Python, Machine Learning, NLP, Data Analysis & Visualization, SQL  
-[GitHub](https://github.com/AiVintage) | [LinkedIn](#)  
+[GitHub](https://github.com/AiVintage) | [LinkedIn](www.linkedin.com/in/veli-nhlapo-721351373)  
